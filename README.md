@@ -29,5 +29,8 @@ Para traer los datos:
 git pull
 
 Para cambiar:
-git checkout -b "[branch name]"   //crea rama y cambia automaticamente
+git checkout -b "[branch name]"   //crea rama y cambia automaticamente *hay que hacer un git add, git commit y git push origin "[nombre]"
 git merge "[nombre de la branch]"    //desde la rama actual, hace el merge con el nombre que se le ponga
+git switch           //para cambiar de rama
+git restore --source [numero hash] [archivo]
+
