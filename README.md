@@ -5,7 +5,7 @@ git config --list    // para ver los datos
 
 
 Crear repositorios:
-git clone [url]   //clonar un repositorio ya existente desde la cuenta de github
+git clone [url]   //clonar un repositorio ya existente desde la cuenta de github  *poner url entre comillas
 git init         //crear un nuevo repositorio en el pc y luego vincularlo
 
 Verificar:
